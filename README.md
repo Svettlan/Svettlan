@@ -1,10 +1,10 @@
-<h1 align="center">Hi there👋</h1>
+### Hi there 👋
 
-<div id="header" aling="right">
-    <img align="right" alt='qa' width='250'src="https://media.giphy.com/media/l0K4n42JVSqqUvAQg/giphy.gif"/>
+<div id="header" aling="center">
+    <img src="https://media.giphy.com/media/l0K4n42JVSqqUvAQg/giphy.gif" width="250"/>
   </div>
 
-<!--
+</--
 **Svettlan/Svettlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--/>
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <div>
@@ -28,5 +28,6 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" **alt="vscode" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" **alt="linkedin" width="40" height="40"/>&nbsp;  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin" **alt="linkedin" width="40" height="40"/>&nbsp;  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" **alt="postgresql" width="40" height="40"/>&nbsp;
   </div>
