@@ -1,7 +1,7 @@
 <h2 align="center">Hi there👋</h2>
 
 <div id="header" aling="right">
-    <img src="https://media.giphy.com/media/l0K4n42JVSqqUvAQg/giphy.gif" width="250"/>
+    <img align="right" alt='qa' width='250'img src="https://media.giphy.com/media/l0K4n42JVSqqUvAQg/giphy.gif" width="250"/>
   </div>
 
 <!--
