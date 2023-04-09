@@ -1,7 +1,7 @@
 ### Hi there 👋
  
 <div id="header" aling="center">
-    <img src="https://media.giphy.com/media/l0K4n42JVSqqUvAQg/giphy.gif" width="250"/>
+    <img src="https://media.giphy.com/media/l0K4n42JVSqqUvAQg/giphy.gif" width="600" height="300"/>
   </div>
 <!--
 **Svettlan/Svettlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
